@@ -38,8 +38,8 @@ I am a passionate software developer focused on building scalable, efficient, an
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+![Your GitHub Stats](https://shion.dev)
+![Top Langs](https://shion.dev)
 
 ---
 
