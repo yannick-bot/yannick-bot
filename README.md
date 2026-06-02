@@ -38,17 +38,17 @@ I am a passionate software developer focused on building scalable, efficient, an
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://shion.dev)
-![Top Langs](https://shion.dev)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannick-bot&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannick-bot&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me
 
 Let's collaborate or chat about backend development!
-- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/yannick-vissoh-7a1776281/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yannick-vissoh-7a1776281/)
 <!-- - **Portfolio / Website:** [https://your-domain.me](https://your-domain.me) -->
-- **Email:** [your.email@example.com](mailto:vissohyannick@gmail.com)
+- **Email:** [vissohyannick@gmail.com](mailto:vissohyannick@gmail.com)
 
 <!--
 **yannick-bot/yannick-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
